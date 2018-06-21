@@ -1,2 +1,2 @@
 # TPPP
-Third Party Payments Process (proof of concept)
+Third Party Payments Processing (proof of concept)
