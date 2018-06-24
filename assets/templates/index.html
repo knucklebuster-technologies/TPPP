@@ -1,0 +1,16 @@
+{{define "body"}}
+<div class="heading">
+    <h1><a href="/">{{.AppName}}</a></h1>
+    <h2>Serving Neighbors Transportation</h2>
+</div>
+<div class="login-page">
+    <div class="form">
+        <form class="login-form" action="/login" method="get">
+            <button>Login Now</button>
+        </form>
+        <form class="login-form" action="/registration" method="get">
+            <button>Register Now</button>
+        </form>
+    </div>
+</div>
+{{end}}
